@@ -1,8 +1,8 @@
 {
   "1.0": {
     "project_path": ":desktop",
-    "project_dir": "/Users/elliotlard/Documents/gameWorkspace/topDownBattle/desktop",
-    "connection_project_dir": "/Users/elliotlard/Documents/gameWorkspace/topDownBattle",
+    "project_dir": "/Users/elliotlard/Documents/gameWorkspace/TopDownBattle/desktop",
+    "connection_project_dir": "/Users/elliotlard/Documents/gameWorkspace/TopDownBattle",
     "connection_gradle_user_home": null,
     "connection_gradle_distribution": "GRADLE_DISTRIBUTION(WRAPPER)",
     "connection_java_home": null,
